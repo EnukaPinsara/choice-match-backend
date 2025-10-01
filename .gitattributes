@@ -1,1 +1,2 @@
-views/* linguist-vendored
+*.hbs linguist-vendored
+*.html linguist-vendored
